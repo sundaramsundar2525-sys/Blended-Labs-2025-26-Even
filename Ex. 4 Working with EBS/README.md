@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**:sundaram.s
+* **Register Number**: 212223033002
+* **Date of Submission**: 24/08/26
 
 ---
 
@@ -92,19 +92,25 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+(Insert Screenshot Here)<img width="593" height="607" alt="562874208-2c69b365-dbf7-483b-8ce1-1ffc106c581e 1" src="https://github.com/user-attachments/assets/f142117d-2d74-4fd9-ac1e-e3960d3b3022" />
+
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+(Insert Screenshot Here)<img width="1919" height="1029" alt="562874207-ddb7602a-a68d-412d-8a83-62c0a1f7542f 2" src="https://github.com/user-attachments/assets/3b8aba6e-4522-468b-8bf3-59bd52397a1d" />
+<img width="1919" height="806" alt="562875500-5d815992-d70d-41a4-8138-d6d2f308ab56 2" src="https://github.com/user-attachments/assets/62059c63-57b4-4fac-8005-bb1834c51205" />
+<img width="1919" height="807" alt="562875414-6c115ad9-53ef-46c4-8f51-cea91598e9f4 2" src="https://github.com/user-attachments/assets/2dfb3642-b75e-444e-96ff-2f509115895e" />
+
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+(Insert Screenshot Here)<img width="1918" height="1039" alt="562875130-b6302d99-e3fb-48df-8ba8-4554b69cf666 3" src="https://github.com/user-attachments/assets/d8a93bb6-ba8d-4a9d-a5fa-95f88a5b5958" />
+<img width="1908" height="1032" alt="562875194-36bea19d-73ee-47b3-bd4d-3558e835f600 3" src="https://github.com/user-attachments/assets/10734cc9-9ead-4f46-b9bb-2f30b6937cc3" />
+
 
 ---
 
